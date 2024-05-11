@@ -1,0 +1,5 @@
+helloworld (1.2-1) UNRELEASED; urgency=medium
+
+  * Initial release. (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- root <stepan.dolgorukov@vk.com>  Sat, 11 May 2024 09:09:23 +0000
