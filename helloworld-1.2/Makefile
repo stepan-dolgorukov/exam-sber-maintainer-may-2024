@@ -1,6 +1,6 @@
 compiler_c := gcc
 
-hello_world:\
+helloworld:\
 hello_world.o
 	${compiler_c} ${^} -o ${@}
 
