@@ -13,5 +13,4 @@ Depends:
  ${shlibs:Depends},
  ${misc:Depends},
  vim
-Description: <insert up to 60 chars description>
- <Insert long description, indented with spaces.>
+Description: Hello world!
